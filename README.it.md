@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Salvatore%20Cutaia&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Ingegnere%20informatico%20%C2%B7%20Agenti%20AI%20e%20automazioni&descSize=20&descAlignY=58&animation=fadeIn" alt="Salvatore Cutaia" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=Salvatore%20Cutaia&fontSize=28&fontColor=ffffff&fontAlignY=32&desc=Ingegnere%20informatico%20%C2%B7%20Agenti%20AI%20e%20automazioni&descSize=14&descAlignY=56&animation=fadeIn" alt="Salvatore Cutaia" width="100%" />
 </p>
 
 <p align="center"><a href="https://github.com/Salvo1583">🇬🇧 English</a> · <b>🇮🇹 Italiano</b></p>
