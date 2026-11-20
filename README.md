@@ -2,12 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Salvatore%20Cutaia&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineer%20%C2%B7%20AI%20Agents%20%26amp%3B%20Automations&descSize=20&descAlignY=58&animation=fadeIn" alt="Salvatore Cutaia" width="100%" />
 </p>
 
+<p align="center"><b>🇬🇧 English</b> · <a href="https://github.com/Salvo1583/salvo1583/blob/main/README.it.md">🇮🇹 Italiano</a></p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=AI+Agents;Automations;Machine+Learning;Web+Platform+Development" alt="AI Agents, Automations, Machine Learning, Web Platform Development" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salvatore-cutaia-6047b0155/"><img src="https://img.shields.io/badge/LinkedIn-Salvatore_Cutaia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/salvatore-cutaia-6047b0155/"><img src="https://img.shields.io/badge/LinkedIn-Salvatore_Cutaia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://neuralform.it/"><img src="https://img.shields.io/badge/Website-neuralform.it-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
 <p align="center">
