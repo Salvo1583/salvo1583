@@ -40,6 +40,61 @@
   </tr>
 </table>
 
+## 📂 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/ai-software-house">🏢 AI Software House</a></h3>
+      A full software company made of 21 AI agents, with security and legal controls built in.<br/>
+      <sub>Claude · Python · React 3D</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/ai-social-media-agency">🎬 AI Social Media Agency</a></h3>
+      16 AI employees producing faceless short videos, from research to avatar and cloned voice.<br/>
+      <sub>Claude · Python · Next.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/serenity-ai">📈 SerenityAI</a></h3>
+      An AI second brain for financial markets: LLM classification, Q&A and backtesting.<br/>
+      <sub>LLM · Python · Streamlit</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/mythesettler-engine">🎮 MyTheSettler</a></h3>
+      Browser strategy engine with reverse engineering of legacy game formats.<br/>
+      <sub>TypeScript · PixiJS · Web Workers</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/football-stats-desktop">⚽ Football Stats Desktop</a></h3>
+      Desktop and web app turning football match data into charts and Excel reports.<br/>
+      <sub>Python · Playwright · PyQt6</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/fashion-deal-tracker">🏷️ Fashion Deal Tracker</a></h3>
+      Price tracker that detects real deals and sends Telegram alerts.<br/>
+      <sub>Python · Telegram · PostgreSQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/villa-valenza-website">🏡 Villa Valenza</a></h3>
+      Website and multi-type booking platform for a holiday villa. <i>Client project.</i><br/>
+      <sub>Next.js · Supabase · Vercel</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/agronomist-website-cms">🌿 Calogero Romano</a></h3>
+      Website, CMS and online booking for an agronomist consultant. <i>Client project.</i><br/>
+      <sub>Next.js · Supabase · Google Calendar</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Source code is private: each link opens a project showcase.</sub></p>
+
 ## 🧰 Stack
 
 <table>
