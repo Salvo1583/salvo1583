@@ -4,6 +4,7 @@
 
 - 🧠 **Data Science e Machine Learning**: analisi dei dati, modelli predittivi, computer vision
 - 🤖 **AI Engineering**: agenti, automazioni e applicazioni basate su LLM
+- ⚙️ **Automazioni**: processi aziendali automatizzati, integrazioni tra servizi, raccolta dati e bot (es. Telegram)
 - 🌐 **Prodotti web**: siti, piattaforme e API per aziende e professionisti, dalla progettazione alla messa online
 
 ## Stack
