@@ -16,6 +16,15 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
+**AI generativa e LLM**
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat&logo=claude&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat&logo=openrouter&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
+![Agenti AI](https://img.shields.io/badge/Agenti_AI-555555?style=flat)
+![RAG](https://img.shields.io/badge/RAG-555555?style=flat)
+![Prompt engineering](https://img.shields.io/badge/Prompt_engineering-555555?style=flat)
+
 **Backend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
