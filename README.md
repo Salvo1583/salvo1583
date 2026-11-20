@@ -11,31 +11,31 @@
 </p>
 
 <p align="center">
-  Progetto e costruisco prodotti basati su <b>dati e intelligenza artificiale</b>, dall'idea al deploy:<br/>
-  modelli di machine learning, agenti AI, automazioni, backend e applicazioni web.
+  I design and build products powered by <b>data and artificial intelligence</b>, from idea to deployment:<br/>
+  machine learning models, AI agents, automations, backends and web applications.
 </p>
 
-## 🚀 Cosa faccio
+## 🚀 What I do
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI Engineering</h3>
-      Agenti AI, applicazioni basate su LLM, RAG e integrazione dei modelli nei prodotti.
+      AI agents, LLM-powered applications, RAG and model integration into real products.
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Data Science e ML</h3>
-      Analisi dei dati, modelli predittivi e computer vision, dal dataset al modello in produzione.
+      <h3>🧠 Data Science &amp; ML</h3>
+      Data analysis, predictive models and computer vision, from raw dataset to production model.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Automazioni</h3>
-      Processi aziendali automatizzati, integrazioni tra servizi, raccolta dati e bot.
+      <h3>⚙️ Automation</h3>
+      Automated business processes, service integrations, data collection and bots.
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Prodotti web</h3>
-      Siti, piattaforme e API per aziende e professionisti, dalla progettazione alla messa online.
+      <h3>🌐 Web platforms</h3>
+      Websites, platforms and APIs for businesses and professionals, from design to launch.
     </td>
   </tr>
 </table>
@@ -44,7 +44,7 @@
 
 <table>
   <tr>
-    <td width="200"><b>🤖 LLM e AI generativa</b></td>
+    <td width="200"><b>🤖 LLMs &amp; Generative AI</b></td>
     <td>
       <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" /><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" width="40" height="40" alt="OpenAI" title="OpenAI" /></picture>&nbsp;
       <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude" title="Claude" />&nbsp;
@@ -55,7 +55,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🧩 Agenti e RAG</b></td>
+    <td><b>🧩 Agents &amp; RAG</b></td>
     <td>
       <img src="https://cdn.simpleicons.org/langchain/1C9C8C" width="40" height="40" alt="LangChain" title="LangChain" />&nbsp;
       <img src="https://cdn.simpleicons.org/langgraph/1C9C8C" width="40" height="40" alt="LangGraph" title="LangGraph" />&nbsp;
@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>⚙️ Automazioni</b></td>
+    <td><b>⚙️ Automation</b></td>
     <td>
       <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" title="n8n" />&nbsp;
       <img src="https://cdn.simpleicons.org/make/A259FF" width="40" height="40" alt="Make" title="Make" />&nbsp;
@@ -73,7 +73,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🎙️ Voce, video e immagini</b></td>
+    <td><b>🎙️ Voice, video &amp; images</b></td>
     <td>
       <img src="https://cdn.simpleicons.org/elevenlabs/888888" width="40" height="40" alt="ElevenLabs" title="ElevenLabs" />&nbsp;
       <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/runway.png" /><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/runway.png" width="40" height="40" alt="Runway" title="Runway" /></picture>&nbsp;
@@ -81,7 +81,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>💻 Sviluppo con AI</b></td>
+    <td><b>💻 AI-assisted development</b></td>
     <td>
       <img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude Code" title="Claude Code" />&nbsp;
       <img src="https://cdn.simpleicons.org/cursor/888888" width="40" height="40" alt="Cursor" title="Cursor" />&nbsp;
@@ -90,14 +90,14 @@
     </td>
   </tr>
   <tr>
-    <td><b>📊 Data Science e ML</b></td>
+    <td><b>📊 Data Science &amp; ML</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" height="40" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV" title="Python, PyTorch, TensorFlow, scikit-learn, OpenCV" />&nbsp;
       <img src="https://cdn.simpleicons.org/pandas/E70488" width="40" height="40" alt="pandas" title="pandas" />
     </td>
   </tr>
   <tr>
-    <td><b>🛠️ Backend e cloud</b></td>
+    <td><b>🛠️ Backend &amp; cloud</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,supabase,redis,docker,vercel,linux" height="40" alt="FastAPI, Flask, PostgreSQL, Supabase, Redis, Docker, Vercel, Linux" title="FastAPI, Flask, PostgreSQL, Supabase, Redis, Docker, Vercel, Linux" />
     </td>
