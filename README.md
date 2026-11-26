@@ -83,6 +83,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/life-in-tasca">🗂️ Life in Tasca</a></h3>
+      Personal registry of assets, documents and deadlines, on web and Android, with cloud sync.<br/>
+      <sub>Next.js · Supabase · Android</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/vibeblend">🎉 VibeBlend</a></h3>
+      Friends answer anonymously, the AI blends budgets and preferences into one plan.<br/>
+      <sub>Next.js · LLM · Supabase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Salvo1583/villa-valenza-website">🏡 Villa Valenza</a></h3>
       Website and multi-type booking platform for a holiday villa. <i>Client project.</i><br/>
       <sub>Next.js · Supabase · Vercel</sub>

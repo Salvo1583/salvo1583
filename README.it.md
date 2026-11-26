@@ -83,6 +83,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/life-in-tasca/blob/main/README.it.md">🗂️ Life in Tasca</a></h3>
+      Registro personale di beni, documenti e scadenze, su web e Android, con sincronizzazione cloud.<br/>
+      <sub>Next.js · Supabase · Android</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Salvo1583/vibeblend/blob/main/README.it.md">🎉 VibeBlend</a></h3>
+      Gli amici rispondono in anonimo, l'AI unisce budget e preferenze in un unico piano.<br/>
+      <sub>Next.js · LLM · Supabase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Salvo1583/villa-valenza-website/blob/main/README.it.md">🏡 Villa Valenza</a></h3>
       Sito web e prenotazioni multi-tipo per una villa vacanze. <i>Progetto per un cliente.</i><br/>
       <sub>Next.js · Supabase · Vercel</sub>
