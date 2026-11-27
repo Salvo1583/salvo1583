@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Salvo1583/life-in-tasca/blob/main/README.it.md">🗂️ Life in Tasca</a></h3>
+      <h3><a href="https://github.com/Salvo1583/life-desk/blob/main/README.it.md">🗂️ LifeDesk</a></h3>
       Registro personale di beni, documenti e scadenze, su web e Android, con sincronizzazione cloud.<br/>
       <sub>Next.js · Supabase · Android</sub>
     </td>

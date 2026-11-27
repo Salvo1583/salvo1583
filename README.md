@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Salvo1583/life-in-tasca">🗂️ Life in Tasca</a></h3>
+      <h3><a href="https://github.com/Salvo1583/life-desk">🗂️ LifeDesk</a></h3>
       Personal registry of assets, documents and deadlines, on web and Android, with cloud sync.<br/>
       <sub>Next.js · Supabase · Android</sub>
     </td>
